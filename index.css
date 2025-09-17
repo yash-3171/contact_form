@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: black;
+    color: beige;
+    height: 40px;
+    font-weight: 600;
+    font-size: 30px;
+    text-transform: uppercase;
+    
+}
+body{
+    background-color: skyblue;
+}
+main{
+    text-transform: uppercase;
+
+    font-weight: bolder;
+
+}
+.form{
+    border: 2px solid black;
+    border-radius: 50px;
+    width: 50%;
+    padding: 30px;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10px;
+    box-shadow: 10px 10px 5px;
+    
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+#buttonn{
+    text-shadow: 3px 3px 6px;
+    margin-left: 30%;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+#buttonn:hover{
+    transform: scale(1.05);
+
+}
+#msg{ 
+    width:70%;
+}
+@media screen and (min-width: 200px){ 
+
+    
+}
