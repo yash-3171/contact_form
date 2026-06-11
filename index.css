@@ -50,7 +50,12 @@ h2{
 #msg{ 
     width:70%;
 }
-@media screen and (min-width: 200px){ 
-
-    
+@media screen and (min-width: 200px){    
+}
+input{
+    border-radius: 20px;
+}
+textarea{
+    border-radius: 20px;
+    padding: 20px;
 }
